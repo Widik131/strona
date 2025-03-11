@@ -1,4 +1,6 @@
-"""settings for roommate_finder in project"""
+"""
+settings for roommate_finder in project.
+"""
 
 
 from pathlib import Path
